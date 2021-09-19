@@ -9,7 +9,7 @@ One Publication can belong to one Composer, one Composer can have multiple Publi
 
 ### Entity Relationship Diagram ( ERD )
 
-![](ERD.JPG)
+![](images/ERD.JPG)
 
 ### SQL scripts
 
