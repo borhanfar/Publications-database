@@ -9,6 +9,8 @@ One Publication can belong to one Composer, one Composer can have multiple Publi
 
 ### Entity Relationship Diagram ( ERD )
 
+![](images/ERD.JPG)
+
 ### SQL scripts
 
 CREATE TABLE composers( 
