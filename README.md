@@ -24,10 +24,15 @@ composer_name VARCHAR(25) NOT NULL,
 PRIMARY KEY(composer_id)); 
 
 INSERT INTO 
+
 composers 
+
 VALUES 
-('A1','Aarons'), 
-('A2','Abel'), 
+
+('A1','Aarons'),
+
+('A2','Abel'),
+
 ('A3','Abdey');
 
 CREATE TABLE publishers( 
