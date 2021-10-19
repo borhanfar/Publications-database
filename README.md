@@ -64,3 +64,6 @@ WHERE
 composers.composer_id=publications.composer_id 
 AND 
 publishers.publisher_id=publications.publisher_id;
+
+
+https://github.com/borhanfar/Publications-database/blob/main/Database%20documentation.pdf
