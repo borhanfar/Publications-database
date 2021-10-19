@@ -16,8 +16,11 @@ One Publication can belong to one Composer, one Composer can have multiple Publi
 ### SQL scripts
 
 CREATE TABLE composers( 
+
 composer_id VARCHAR(10), 
+
 composer_name VARCHAR(25) NOT NULL, 
+
 PRIMARY KEY(composer_id)); 
 
 INSERT INTO 
